@@ -1,4 +1,4 @@
-Machine Learning Practicals
+#Machine Learning Practicals
 
 This repository contains basic machine learning projects implemented using Python.
 
