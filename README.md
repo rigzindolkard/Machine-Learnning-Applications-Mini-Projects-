@@ -1,6 +1,6 @@
 Machine Learning Practicals
 
-This repository contains basic machine learning projects implemented using Python.
+This repository contains basic machine learning practicals implemented using Python.
 
 Projects:
 - Breast Cancer Classification using Logistic Regression
